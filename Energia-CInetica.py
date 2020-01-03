@@ -1,5 +1,5 @@
 from tkinter import *    # Por Maurício N. (Shark)
-import tkinter as tk
+import tkinter as tk     #coding in "UTF-8"
 from PIL import ImageTk, Image 
 from  functools import partial
 #-----------------------------------------------= Master =----------------------------------------
